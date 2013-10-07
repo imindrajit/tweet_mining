@@ -1,5 +1,8 @@
 tweet_mining
 ============
+We are provided with the Tweet-id and Tweets. A classifier has to be built so that it can classify tweets as either 'Sports' or 'Politics'.
+
+
 In order to run the code , please save the following five files (three files along with two tweet files,training and test data) in the same place (ex- "C:\Python27")
 
 1)wrking_on_tweets.py (main file)
